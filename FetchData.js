@@ -37,3 +37,4 @@ const HomeScreen = ({navigation}) => {
 const styles = StyleSheet.create({});
 
 export default HomeScreen;
+//https://stackoverflow.com/questions/52100103/getting-all-documents-from-one-collection-in-firestore
